@@ -5,7 +5,9 @@
     --cor06: #72735A;   
     --cor07: #F2B9AC;
     --cor08: #594032;
-    --cor09: #F2EBDC;
-    /*--font-padrao: Arial, Verdana, sans-serif;
-    --font-titulo: 'Bebas Neue', 'cursive';*/  
+    --cor09: #F2EBDC; 
+}
+
+h1{
+    font-family: 'Libre Baskerville', serif;
 }
